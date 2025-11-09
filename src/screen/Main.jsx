@@ -4,7 +4,7 @@ import Footer from "../component/Footer";
 
 // export const serverRoute = "http://localhost:8080";
 // export const serverRoute = "https://salamh2-se-yrp7.onrender.com";
-export const serverRoute = "https://s-server-1.onrender.com";
+export const serverRoute = "https://slamh-se.onrender.com";
 export const socket = io(serverRoute);
 const Main = () => {
   return (
